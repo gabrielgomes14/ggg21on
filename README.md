@@ -5,8 +5,8 @@
 
 <div>
 <a href="https:/ggg21on">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggg21on&layout=compact&langs_count=7&theme=youtube-dark"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggg21oninfo&show_icons=true&theme=youtube-dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggg21on&layout=compact&langs_count=7&theme=codeSTACKr"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggg21oninfo&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
 </div>
   
 ### Tools and Technologies 🛠
