@@ -3,7 +3,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=ggg21on&theme=youtube-dark&locale=pt_BR)](https://git.io/streak-stats)
 
 <div>
-<a href="https://ggg21on">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ggg21on&theme=youtube-dark&locale=pt_BR" alt="GitHub Streak" /></a>
 </div>
   
