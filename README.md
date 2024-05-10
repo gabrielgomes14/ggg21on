@@ -1,6 +1,6 @@
 ### Hello, Welcome to my GitHub profile!👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ggg21on&theme=youtube-dark&locale=pt_BR)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ggg21on&theme=youtube-dark&locale=EN)](https://git.io/streak-stats) 
 ##
 
 ### Tools and Technologies 🛠
