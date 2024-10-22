@@ -6,8 +6,8 @@
 
 <div>
     <a href="https://github.com/ggg21on">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggg21on&layout=compact&langs_count=7&theme=github-dark"/> 
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggg21on&show_icons=true&theme=github-dark&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggg21on&layout=compact&langs_count=7&theme=blue_navy"/> 
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggg21on&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
     </a>
 </div>
   
