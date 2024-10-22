@@ -1,13 +1,13 @@
 ### Olá, Bem-vindo ao meu perfil do GitHub!👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ggg21on&theme=youtube-dark&locale=EN)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ggg21on&theme=github-dark&locale=EN)](https://git.io/streak-stats)
 
 ##
 
 <div>
 <a href="https:/ggg21on">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggg21on&layout=compact&langs_count=7&theme=date_night"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggg21on&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggg21on&layout=compact&langs_count=7&theme=github-dark"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggg21on&show_icons=true&theme=github-dark&include_all_commits=true&count_private=true"/>
 </div>
   
 ### Ferramentas e Tecnologias 🛠
