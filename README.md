@@ -2,8 +2,6 @@
 
 ## Olá, Bem-vindo ao meu perfil do GitHub!👋
 
-##
-
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
