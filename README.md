@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ggg21on&color=006bed)
 
 ## Olá, Bem-vindo ao meu perfil do GitHub!👋
-
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
