@@ -45,9 +45,8 @@
 <br/>
 
 <a href="https://github.com/ggg21on" title="Perfil do Gabriel">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=ggg21on&theme=dracula&locale=EN)](https://git.io/streak-stats)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggg21on&theme=dracula&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggg21on&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggg21on&layout=compact&langs_count=7&theme=dracula"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggg21on&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 
 ## Onde me encontrar
