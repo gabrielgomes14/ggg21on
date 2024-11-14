@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=ggg21on&color=006bed)
+![](https://komarev.com/ghpvc/?username=gabrielgomes14&color=006bed)
 
 ## Sobre mim
 
@@ -43,9 +43,9 @@
 
 <br/>
 
-<a href="https://github.com/ggg21on" title="Perfil do Gabriel">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggg21on&layout=compact&langs_count=7&theme=dracula"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggg21on&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/gabrielgomes14" title="Perfil do Gabriel">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgomes14&layout=compact&langs_count=7&theme=dracula"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielgomes14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 
 ## Onde me encontrar
@@ -53,4 +53,4 @@
 [![Linkedin](https://img.shields.io/badge/-gabrielgomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-gomes-574287258/)](https://www.linkedin.com/in/gabriel-gomes-574287258/)
 [![Instagram](https://img.shields.io/badge/-gomesgalikosky-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/gomesgalikosky/)](https://www.instagram.com/gomesgalikosky/)
 [![Gmail Badge](https://img.shields.io/badge/-gomesgalikosky@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gomesgalikosky@gmail.com)](mailto:gomesgalikosky@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/ggg21on?label=follow&style=social)](https://github.com/ggg21on?tab=followers)
+[![GitHub](https://img.shields.io/github/followers/gabrielgomes14?label=follow&style=social)](https://github.com/gabrielgomes14?tab=followers)
